@@ -8,6 +8,8 @@ Test at: http://127.0.0.1:8000/hello/vss/Image
 
 ### Sample Output
 
+
+```
 INFO:     Will watch for changes in these directories: ['/Users/hareshsiva/PycharmProjects/VSSNatureLandscapeWildlife']
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 INFO:     Started reloader process [59752] using StatReload
@@ -28,3 +30,4 @@ Found cached dataset beans (/Users/hareshsiva/.cache/huggingface/datasets/beans/
 Found cached dataset beans (/Users/hareshsiva/.cache/huggingface/datasets/beans/default/0.0.0/90c755fb6db1c0ccdad02e897a37969dbf070bed3755d4391e269ff70642d791)
 Loading cached shuffled indices for dataset at /Users/hareshsiva/.cache/huggingface/datasets/beans/default/0.0.0/90c755fb6db1c0ccdad02e897a37969dbf070bed3755d4391e269ff70642d791/cache-14b4efbce765f9cb.arrow
 Found cached dataset beans (/Users/hareshsiva/.cache/huggingface/datasets/beans/default/0.0.0/90c755fb6db1c0ccdad02e897a37969dbf070bed3755d4391e269ff70642d791)
+```
